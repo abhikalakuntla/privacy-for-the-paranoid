@@ -1,4 +1,4 @@
-# Security and Privacy for the Paranoid.  
+# Online Security and Information Privacy for the Paranoid.  
 
 ##Beginner
 
