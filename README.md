@@ -28,14 +28,14 @@
 
 ##Device Settings
 
-###Phone
+Phone
 
 * [ ] Disable TouchID / fingerprint unlock
 * [ ] Set a passcode / password of 6+ characters
 * [ ] Disable what someone can see/do with your phone if they don't have the password (lock screen widgets, notification privacy, Apple/Android/Samsung Pay)
 * [ ] Disable location services for any app that doesn't really need it. Disable "always on" location services from literally everything.
 
-###Computer
+Computer
 
 * [ ] Turn on Firewall on your Mac
 * [ ] Cover your computer webcam with a Post-it
@@ -44,7 +44,8 @@
 * [ ] Get rid of your Android and get an iPhone (not intentionally pretentious, && there are great iPhones at basically any price point these days)
 
 
-###Other
+Other
+
 * [ ] Don't buy knockoff smart home appliances. This includes security cameras
 * [ ] Get rid of your Amazon Alexa and Google Home
 
