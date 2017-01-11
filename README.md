@@ -24,7 +24,7 @@
 
 
 ##GOOGLE
-(They have so much data they get their own section)
+(They have so much of your data that they get their own section)
 
 1. [ ] Disable search history (or better, switch to DuckDuckGo. You can set it as default for Safari, Chrome, Firefox, and iOS Safari now)
 2. [ ] Disable maps/location history
