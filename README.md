@@ -1,6 +1,6 @@
-## Security and Privacy for the Paranoid.  
+# Security and Privacy for the Paranoid.  
 
-#ONLINE
+##ONLINE
 [ ] Set up 2FA on everything 
 [ ] Use different passwords for all accounts 
 [ ] Delete unused and unnecessary accounts 
@@ -22,7 +22,7 @@
 [ ] Stop oversharing on social media - no one cares, sorry
 
 
-#GOOGLE
+##GOOGLE
 (They have so much data they get their own section)
 [ ] Disable search history (or better, switch to DuckDuckGo. You can set it as default for Safari, Chrome, Firefox, and iOS Safari now)
 [ ] Disable maps/location history
@@ -31,7 +31,7 @@
 [ ] Check Google+ for what data Google has made public, set anything you don't like to private
 
 
-#FACEBOOK
+##FACEBOOK
 [ ] Use this slideshow to set up strict privacy settings 
 [ ] Set up login notifications
 [ ] Review your active sessions
@@ -39,7 +39,7 @@
 [ ] Review what apps have access to your data via Facebook login 
 
 
-#DEVICES
+##DEVICES
 [ ]  Disable TouchID on anything you care about
 [ ] Set a passcode of 6+ characters
 [ ] Disable what someone can see/do with your phone if they don't have the password (lock screen widgets, notification privacy, Apple/Android/Samsung Pay)
@@ -55,7 +55,7 @@
 [ ] Don't buy knockoff smart home appliances. This includes security cameras 
 
 
-#OFFLINE
+##OFFLINE
 [ ] Consolidate external hard drives and USB thumbdrives so you don't lose them
 [ ] Consolidate notebooks and papers that could have sensitive info, shred the ones you don't need. Archive papers by scanning into (a secured) Evernote account if you don't need the physical copy. 
 [ ] Wipe unused old computers, phones, etc.
