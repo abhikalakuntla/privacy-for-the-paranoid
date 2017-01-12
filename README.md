@@ -5,9 +5,11 @@
 * [ ] Set up 2FA on all of your accounts that support it
 * [ ] Use different passwords for all of your accounts
 * [ ] Use a password manager like 1Password or LastPass. Change the master password periodically.
+* [ ] Pay attention to when a website is using https, and never type a password into a site that doesn't use https
 * [ ] Delete your unused and unnecessary accounts
 * [ ] Set strict privacy options on Facebook (see below)
 * [ ] Set strict privacy options on Google (see below)
+* [ ] Use a browser plugin like adblock, privacy badger, and ghostery to prevent third parties from tracking you
 * [ ] Set up login notifications on apps that allow it
 * [ ] Use Privacy.com when doing online transactions and enable transaction notifications
 * [ ] On services that allow it, check for active sessions, and delete any unused, forgotten, or unapproved sessions
@@ -24,6 +26,7 @@
 * [ ] Install Malwarebyte on your computer
 * [ ] Use encrypted communication methods - Signal, etc.
 * [ ] Make sure that any device or app you store sensitive info in is encrypted. (Evernote, Day One, etc - BTW, Day One isn't encrypted)
+* [ ] Use tor for web browsing, the more people use it the better the network is
 
 
 ##Device Settings
