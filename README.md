@@ -1,4 +1,5 @@
 # Online Security and Privacy for the Paranoid
+A master checklist to secure your online life.
 
 ##Beginner
 
